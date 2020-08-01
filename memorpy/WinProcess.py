@@ -296,7 +296,3 @@ class WinProcess(BaseProcess):
             return 'Unable to disassemble at %08x' % address
 
         return pydasm.get_instruction(data, pydasm.MODE_32)
-
-×
-Drag and Drop
-The image will be downloaded
