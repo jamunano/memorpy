@@ -1,7 +1,7 @@
 # info
 i just merged two forks into one...
-https://github.com/AlessandroZ/memorpy
-https://github.com/grrrrrrrrr/memorpy
+・https://github.com/AlessandroZ/memorpy
+・https://github.com/grrrrrrrrr/memorpy
 
 # memorpy
 Python library using ctypes to search/edit windows/linux/OSX/SunOS programs memory.
