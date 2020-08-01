@@ -1,16 +1,18 @@
-# info
+# credits
 i just merged two forks into one...
-・https://github.com/AlessandroZ/memorpy
-・https://github.com/grrrrrrrrr/memorpy
+* [n1nj4sec](https://github.com/n1nj4sec)
+* [AlessandroZ](https://github.com/AlessandroZ)
+* [alxchk](https://github.com/alxchk)
+* [grrrrrrrrr](https://github.com/grrrrrrrrr)
 
 # memorpy
 Python library using ctypes to search/edit windows/linux/OSX/SunOS programs memory.
 
-# install
+# Install
 ```
 pip install https://github.com/jamunano/memorpy/archive/master.zip
 ```
-# usage examples :
+# Usage Examples :
 In this example open a notepad.exe and type in some text we will edit from memory !
 ```python
 >>> from memorpy import *
@@ -105,13 +107,13 @@ Now you have infinite ammo :o)
 I hope this code will be useful to someone.
 
 Have fun !
-## Other examples
+## Other Examples
 Have a look at [mimipy](https://github.com/n1nj4sec/mimipy) that dumps passwords from various processes memory
 
-## Contact
-by mail: contact@n1nj4.eu  
-on Twitter: [Follow me on twitter](https://twitter.com/n1nj4sec)  
+## Contact (n1nj4sec)
+mail: contact@n1nj4.eu  
+Twitter: [n1nj4sec](https://twitter.com/n1nj4sec)  
 
 If some of you want to participate or send me a feedback, don't hesitate :-)  
   
-This project is a personal development, please respect its philosophy don't use it for evil purpose !
+This project is a personal development, please respect its philosophy, don't use it for evil purpose !
