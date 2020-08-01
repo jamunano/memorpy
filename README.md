@@ -1,9 +1,14 @@
+# info
+i just merged two forks into one...
+https://github.com/AlessandroZ/memorpy
+https://github.com/grrrrrrrrr/memorpy
+
 # memorpy
 Python library using ctypes to search/edit windows/linux/OSX/SunOS programs memory.
 
 # install
 ```
-pip install https://github.com/n1nj4sec/memorpy/archive/master.zip
+pip install https://github.com/jamunano/memorpy/archive/master.zip
 ```
 # usage examples :
 In this example open a notepad.exe and type in some text we will edit from memory !
