@@ -230,6 +230,3 @@ MEM_FREE                    = 65536
 MEM_RESERVE                 = 8192
 DACL_SECURITY_INFORMATION   = 4
 UNPROTECTED_DACL_SECURITY_INFORMATION = 536870912
-×
-Drag and Drop
-The image will be downloaded
